@@ -1,0 +1,19 @@
+#
+# Author: Lasse Collin
+#
+# This file has been put into the public domain.
+# You can do whatever you want with this file.
+#
+
+prefix=/home/qisens/anaconda3/envs/labelme
+exec_prefix=/home/qisens/anaconda3/envs/labelme
+libdir=/home/qisens/anaconda3/envs/labelme/lib
+includedir=/home/qisens/anaconda3/envs/labelme/include
+
+Name: liblzma
+Description: General purpose data compression library
+URL: https://tukaani.org/xz/
+Version: 5.2.5
+Cflags: -I${includedir}
+Libs: -L${libdir} -llzma
+Libs.private: -pthread -lrt  -lpthread

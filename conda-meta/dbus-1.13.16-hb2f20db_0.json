@@ -1,0 +1,442 @@
+{
+  "build": "hb2f20db_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "expat >=2.2.6,<3.0a0",
+    "glib >=2.63.1,<3.0a0",
+    "libgcc-ng >=7.3.0"
+  ],
+  "extracted_package_dir": "/home/qisens/anaconda3/pkgs/dbus-1.13.16-hb2f20db_0",
+  "features": "",
+  "files": [
+    "bin/dbus-cleanup-sockets",
+    "bin/dbus-daemon",
+    "bin/dbus-launch",
+    "bin/dbus-monitor",
+    "bin/dbus-run-session",
+    "bin/dbus-send",
+    "bin/dbus-test-tool",
+    "bin/dbus-update-activation-environment",
+    "bin/dbus-uuidgen",
+    "etc/dbus-1/session.conf",
+    "etc/dbus-1/system.conf",
+    "include/dbus-1.0/dbus/dbus-address.h",
+    "include/dbus-1.0/dbus/dbus-bus.h",
+    "include/dbus-1.0/dbus/dbus-connection.h",
+    "include/dbus-1.0/dbus/dbus-errors.h",
+    "include/dbus-1.0/dbus/dbus-macros.h",
+    "include/dbus-1.0/dbus/dbus-memory.h",
+    "include/dbus-1.0/dbus/dbus-message.h",
+    "include/dbus-1.0/dbus/dbus-misc.h",
+    "include/dbus-1.0/dbus/dbus-pending-call.h",
+    "include/dbus-1.0/dbus/dbus-protocol.h",
+    "include/dbus-1.0/dbus/dbus-server.h",
+    "include/dbus-1.0/dbus/dbus-shared.h",
+    "include/dbus-1.0/dbus/dbus-signature.h",
+    "include/dbus-1.0/dbus/dbus-syntax.h",
+    "include/dbus-1.0/dbus/dbus-threads.h",
+    "include/dbus-1.0/dbus/dbus-types.h",
+    "include/dbus-1.0/dbus/dbus.h",
+    "lib/cmake/DBus1/DBus1Config.cmake",
+    "lib/cmake/DBus1/DBus1ConfigVersion.cmake",
+    "lib/dbus-1.0/include/dbus/dbus-arch-deps.h",
+    "lib/libdbus-1.a",
+    "lib/libdbus-1.so",
+    "lib/libdbus-1.so.3",
+    "lib/libdbus-1.so.3.28.0",
+    "lib/pkgconfig/dbus-1.pc",
+    "libexec/dbus-daemon-launch-helper",
+    "share/dbus-1/session.conf",
+    "share/dbus-1/system.conf",
+    "share/doc/dbus/diagram.png",
+    "share/doc/dbus/diagram.svg",
+    "share/doc/dbus/examples/GetAllMatchRules.py",
+    "share/doc/dbus/examples/example-session-disable-stats.conf",
+    "share/doc/dbus/examples/example-system-enable-stats.conf",
+    "share/doc/dbus/examples/example-system-hardening-without-traditional-activation.conf",
+    "share/doc/dbus/system-activation.txt",
+    "share/xml/dbus-1/busconfig.dtd",
+    "share/xml/dbus-1/introspect.dtd"
+  ],
+  "fn": "dbus-1.13.16-hb2f20db_0.tar.bz2",
+  "license": "GPL2",
+  "link": {
+    "source": "/home/qisens/anaconda3/pkgs/dbus-1.13.16-hb2f20db_0",
+    "type": 1
+  },
+  "md5": "094cacb65bec5e7fe21285c804cb35f2",
+  "name": "dbus",
+  "package_tarball_full_path": "/home/qisens/anaconda3/pkgs/dbus-1.13.16-hb2f20db_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "bin/dbus-cleanup-sockets",
+        "path_type": "hardlink",
+        "sha256": "6ce535a4c78c373d5d1e20dbcb5b956e849400f2299d20da373739d79769d1e1",
+        "sha256_in_prefix": "6ce535a4c78c373d5d1e20dbcb5b956e849400f2299d20da373739d79769d1e1",
+        "size_in_bytes": 20920
+      },
+      {
+        "_path": "bin/dbus-daemon",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/tmp/build/80754af9/dbus_1593111147461/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold",
+        "sha256": "58a7bb2b5468ef510b413cfd7f6a71352282856348cd9dac82daec3da3219187",
+        "sha256_in_prefix": "574967147fa22f370a74ebaf9f410b07002da27f9e267842eee4b48fcf49418e",
+        "size_in_bytes": 280648
+      },
+      {
+        "_path": "bin/dbus-launch",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/tmp/build/80754af9/dbus_1593111147461/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold",
+        "sha256": "61be9d4e4d9a6880bb644bda6f34bf6d42dc6a7feaf0c413ec929bf279a0349a",
+        "sha256_in_prefix": "c137d2c5eaecf65a96fc9ec5e7c65645c70cf09dfe48bad14b5eff2a63c37f64",
+        "size_in_bytes": 34528
+      },
+      {
+        "_path": "bin/dbus-monitor",
+        "path_type": "hardlink",
+        "sha256": "fa205c2c778ccbb1f9ccba8582de00e7954ef8b75e83065905f7c4336d03ed59",
+        "sha256_in_prefix": "fa205c2c778ccbb1f9ccba8582de00e7954ef8b75e83065905f7c4336d03ed59",
+        "size_in_bytes": 35936
+      },
+      {
+        "_path": "bin/dbus-run-session",
+        "path_type": "hardlink",
+        "sha256": "293d639f6fc19283cfb50f5fea5ca3b92630da5bca002c0593ef031f50d54038",
+        "sha256_in_prefix": "293d639f6fc19283cfb50f5fea5ca3b92630da5bca002c0593ef031f50d54038",
+        "size_in_bytes": 20784
+      },
+      {
+        "_path": "bin/dbus-send",
+        "path_type": "hardlink",
+        "sha256": "8e48f16dcbbbf7530669d6368322b6bfdfb56951a8db35e7166a0fab2d8fba90",
+        "sha256_in_prefix": "8e48f16dcbbbf7530669d6368322b6bfdfb56951a8db35e7166a0fab2d8fba90",
+        "size_in_bytes": 40168
+      },
+      {
+        "_path": "bin/dbus-test-tool",
+        "path_type": "hardlink",
+        "sha256": "4d05d579227c72eed28a5883183c609134295c8c8669b751b4b24722956b70cf",
+        "sha256_in_prefix": "4d05d579227c72eed28a5883183c609134295c8c8669b751b4b24722956b70cf",
+        "size_in_bytes": 35336
+      },
+      {
+        "_path": "bin/dbus-update-activation-environment",
+        "path_type": "hardlink",
+        "sha256": "e46a63438e0a4f004f43b23c31b54cd62a9d6919efac26a298860ef8be17d957",
+        "sha256_in_prefix": "e46a63438e0a4f004f43b23c31b54cd62a9d6919efac26a298860ef8be17d957",
+        "size_in_bytes": 21232
+      },
+      {
+        "_path": "bin/dbus-uuidgen",
+        "path_type": "hardlink",
+        "sha256": "694a6cbbc88fa76bdfbec0a9dab5ef62773606c13441f76a3c668a31c8a94e35",
+        "sha256_in_prefix": "694a6cbbc88fa76bdfbec0a9dab5ef62773606c13441f76a3c668a31c8a94e35",
+        "size_in_bytes": 20400
+      },
+      {
+        "_path": "etc/dbus-1/session.conf",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "5f4e777d6844e45a159f66cf008d9ad757d8311c0fab458936a2f4368f2157cd",
+        "sha256_in_prefix": "fd2062abcbbb4abf2db06a4a45877291a3b826a5822ddb96102652348558f69e",
+        "size_in_bytes": 894
+      },
+      {
+        "_path": "etc/dbus-1/system.conf",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "87bff83e095b0d8fc1d2a220b70d46087f116503e5dbd1d7b8b9eb50e5a91822",
+        "sha256_in_prefix": "f094bbc7d5233c34073560594b12ee7a226595c20a8e6848444a7364f704d47f",
+        "size_in_bytes": 889
+      },
+      {
+        "_path": "include/dbus-1.0/dbus/dbus-address.h",
+        "path_type": "hardlink",
+        "sha256": "81920108cff3f14dfdb8e587ae47c90233ac3f74154215f0045ac69c44b4ce6d",
+        "sha256_in_prefix": "81920108cff3f14dfdb8e587ae47c90233ac3f74154215f0045ac69c44b4ce6d",
+        "size_in_bytes": 2810
+      },
+      {
+        "_path": "include/dbus-1.0/dbus/dbus-bus.h",
+        "path_type": "hardlink",
+        "sha256": "37a06cf36473dc0325065f7ea22314c7e4a9e294f289941ba6d286d77ceb03da",
+        "sha256_in_prefix": "37a06cf36473dc0325065f7ea22314c7e4a9e294f289941ba6d286d77ceb03da",
+        "size_in_bytes": 3470
+      },
+      {
+        "_path": "include/dbus-1.0/dbus/dbus-connection.h",
+        "path_type": "hardlink",
+        "sha256": "2f78028b43527613242b2422f8417fe43b269725f64b6089040cc926ff52cd88",
+        "sha256_in_prefix": "2f78028b43527613242b2422f8417fe43b269725f64b6089040cc926ff52cd88",
+        "size_in_bytes": 27018
+      },
+      {
+        "_path": "include/dbus-1.0/dbus/dbus-errors.h",
+        "path_type": "hardlink",
+        "sha256": "b1ba59435a38bba109d4af6cbba1940695df7bffc16a54c92534f9cedbecea69",
+        "sha256_in_prefix": "b1ba59435a38bba109d4af6cbba1940695df7bffc16a54c92534f9cedbecea69",
+        "size_in_bytes": 2909
+      },
+      {
+        "_path": "include/dbus-1.0/dbus/dbus-macros.h",
+        "path_type": "hardlink",
+        "sha256": "3c373c8898b7f4aa0147ea9216e228e29deb82ab7cf68d147da37f803dbda182",
+        "sha256_in_prefix": "3c373c8898b7f4aa0147ea9216e228e29deb82ab7cf68d147da37f803dbda182",
+        "size_in_bytes": 7246
+      },
+      {
+        "_path": "include/dbus-1.0/dbus/dbus-memory.h",
+        "path_type": "hardlink",
+        "sha256": "e51e7730e88116d1e814c3e95893ba0eff2c924341f564082d256d5f026a1d5f",
+        "sha256_in_prefix": "e51e7730e88116d1e814c3e95893ba0eff2c924341f564082d256d5f026a1d5f",
+        "size_in_bytes": 1961
+      },
+      {
+        "_path": "include/dbus-1.0/dbus/dbus-message.h",
+        "path_type": "hardlink",
+        "sha256": "29f93f0fab85f30baef9b928e5a9cb353130d086cd0b629775acd1edf5349363",
+        "sha256_in_prefix": "29f93f0fab85f30baef9b928e5a9cb353130d086cd0b629775acd1edf5349363",
+        "size_in_bytes": 15259
+      },
+      {
+        "_path": "include/dbus-1.0/dbus/dbus-misc.h",
+        "path_type": "hardlink",
+        "sha256": "7e507afc9e9212ddb3d2c4d51da2cbb1dae107ada1fc93f90d40ba240739e940",
+        "sha256_in_prefix": "7e507afc9e9212ddb3d2c4d51da2cbb1dae107ada1fc93f90d40ba240739e940",
+        "size_in_bytes": 1811
+      },
+      {
+        "_path": "include/dbus-1.0/dbus/dbus-pending-call.h",
+        "path_type": "hardlink",
+        "sha256": "1d61d3a1eec0b373b5da91775038e9650929c72dadc4b6734bc874d611811a17",
+        "sha256_in_prefix": "1d61d3a1eec0b373b5da91775038e9650929c72dadc4b6734bc874d611811a17",
+        "size_in_bytes": 3809
+      },
+      {
+        "_path": "include/dbus-1.0/dbus/dbus-protocol.h",
+        "path_type": "hardlink",
+        "sha256": "afbed5494ba45e01774869f8aa6b14046caa70bc581568453e4763de407f528e",
+        "sha256_in_prefix": "afbed5494ba45e01774869f8aa6b14046caa70bc581568453e4763de407f528e",
+        "size_in_bytes": 23957
+      },
+      {
+        "_path": "include/dbus-1.0/dbus/dbus-server.h",
+        "path_type": "hardlink",
+        "sha256": "b38cd3fd001bd5c58b55bbdc5ed32b6824fd3001198b64f4f4bd7c1e3f0a9b14",
+        "sha256_in_prefix": "b38cd3fd001bd5c58b55bbdc5ed32b6824fd3001198b64f4f4bd7c1e3f0a9b14",
+        "size_in_bytes": 5412
+      },
+      {
+        "_path": "include/dbus-1.0/dbus/dbus-shared.h",
+        "path_type": "hardlink",
+        "sha256": "1cbb1522a1e451eaf7109fa01297d28059621c9e1a9511b9641902a3bfe68c61",
+        "sha256_in_prefix": "1cbb1522a1e451eaf7109fa01297d28059621c9e1a9511b9641902a3bfe68c61",
+        "size_in_bytes": 5535
+      },
+      {
+        "_path": "include/dbus-1.0/dbus/dbus-signature.h",
+        "path_type": "hardlink",
+        "sha256": "b2320263bc4568e70526301d617ffb540f47e5afe2d901584df0e8915e6b6f48",
+        "sha256_in_prefix": "b2320263bc4568e70526301d617ffb540f47e5afe2d901584df0e8915e6b6f48",
+        "size_in_bytes": 3047
+      },
+      {
+        "_path": "include/dbus-1.0/dbus/dbus-syntax.h",
+        "path_type": "hardlink",
+        "sha256": "84bf3b915af641566b86038b1c695211192a6d711f8e8b21375cf452b23bbd2d",
+        "sha256_in_prefix": "84bf3b915af641566b86038b1c695211192a6d711f8e8b21375cf452b23bbd2d",
+        "size_in_bytes": 2359
+      },
+      {
+        "_path": "include/dbus-1.0/dbus/dbus-threads.h",
+        "path_type": "hardlink",
+        "sha256": "ae6e81b0a02b0929f5956b51019802e837e7b3d8b8380590f7dcb6daa355ddce",
+        "sha256_in_prefix": "ae6e81b0a02b0929f5956b51019802e837e7b3d8b8380590f7dcb6daa355ddce",
+        "size_in_bytes": 8505
+      },
+      {
+        "_path": "include/dbus-1.0/dbus/dbus-types.h",
+        "path_type": "hardlink",
+        "sha256": "4be10675d7bea8b805749cac9d4189b7292a3417552f3824d9a3c1db8c305472",
+        "sha256_in_prefix": "4be10675d7bea8b805749cac9d4189b7292a3417552f3824d9a3c1db8c305472",
+        "size_in_bytes": 4143
+      },
+      {
+        "_path": "include/dbus-1.0/dbus/dbus.h",
+        "path_type": "hardlink",
+        "sha256": "c46f0241cab14bfbd25efc0fbb6d55b3a63bd14d576349780510e90feed94135",
+        "sha256_in_prefix": "c46f0241cab14bfbd25efc0fbb6d55b3a63bd14d576349780510e90feed94135",
+        "size_in_bytes": 3961
+      },
+      {
+        "_path": "lib/cmake/DBus1/DBus1Config.cmake",
+        "path_type": "hardlink",
+        "sha256": "9e637d86d9dc3691d31890154289541c46289a45956d049bad52b27ad656ff71",
+        "sha256_in_prefix": "9e637d86d9dc3691d31890154289541c46289a45956d049bad52b27ad656ff71",
+        "size_in_bytes": 2883
+      },
+      {
+        "_path": "lib/cmake/DBus1/DBus1ConfigVersion.cmake",
+        "path_type": "hardlink",
+        "sha256": "6a471ad3f7eb03e782b752d80d27bc283fa67bf1c0ab72e93059cb91e9b82732",
+        "sha256_in_prefix": "6a471ad3f7eb03e782b752d80d27bc283fa67bf1c0ab72e93059cb91e9b82732",
+        "size_in_bytes": 367
+      },
+      {
+        "_path": "lib/dbus-1.0/include/dbus/dbus-arch-deps.h",
+        "path_type": "hardlink",
+        "sha256": "fb723fd9846c8e13fa4b959d344f625f1a4c659eaa55917600d0b8b79acada19",
+        "sha256_in_prefix": "fb723fd9846c8e13fa4b959d344f625f1a4c659eaa55917600d0b8b79acada19",
+        "size_in_bytes": 2052
+      },
+      {
+        "_path": "lib/libdbus-1.a",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/tmp/build/80754af9/dbus_1593111147461/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold",
+        "sha256": "a73d5f25192fcdc5fb3ae30a635fd177b2ba74be4175e8af86339a486a951ad3",
+        "sha256_in_prefix": "bc4c6f3a7d1c86164f7ea3e24a622e9586e87170925502623eed0357056bf619",
+        "size_in_bytes": 923474
+      },
+      {
+        "_path": "lib/libdbus-1.so",
+        "path_type": "softlink",
+        "sha256": "ccb3a54010a0d9ceb7f3cbff1243720cda873a5caded3df84d6c35cf545c6224",
+        "size_in_bytes": 418296
+      },
+      {
+        "_path": "lib/libdbus-1.so.3",
+        "path_type": "softlink",
+        "sha256": "ccb3a54010a0d9ceb7f3cbff1243720cda873a5caded3df84d6c35cf545c6224",
+        "size_in_bytes": 418296
+      },
+      {
+        "_path": "lib/libdbus-1.so.3.28.0",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/tmp/build/80754af9/dbus_1593111147461/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold",
+        "sha256": "ccb3a54010a0d9ceb7f3cbff1243720cda873a5caded3df84d6c35cf545c6224",
+        "sha256_in_prefix": "2e827e5b83713e232e2bd4aaa950aacb6aab18fd53afda2e3e4ae754ec8d34be",
+        "size_in_bytes": 418296
+      },
+      {
+        "_path": "lib/pkgconfig/dbus-1.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "766d73fa3a965779e743cdd1d5d799e73bc23e13b90150eb6bdd4a02c0fa2cb2",
+        "sha256_in_prefix": "a8475d5d614ea66916d16c5189a6992de2728c6ae73e17155e948402b635ce7d",
+        "size_in_bytes": 719
+      },
+      {
+        "_path": "libexec/dbus-daemon-launch-helper",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/tmp/build/80754af9/dbus_1593111147461/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold",
+        "sha256": "40538c740aacc92b981188ffe1c6d45983cfc16acafb30c1cdd747fe0462bc79",
+        "sha256_in_prefix": "3b2d959b32a1cb9e8647d6dbd9d9d58451dc2b05f28f5638bef8cf2d8200ce8f",
+        "size_in_bytes": 46216
+      },
+      {
+        "_path": "share/dbus-1/session.conf",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "303dd69bf258e861f9e6df0680a3624d8ccd2ef5f881227bb1cddf36bf96713a",
+        "sha256_in_prefix": "a63abe9d5d3de764f835dbd8d35c92b02f0ac408753ee8ab3688a3c799391232",
+        "size_in_bytes": 3989
+      },
+      {
+        "_path": "share/dbus-1/system.conf",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "61b0ec64b637c2bade4c0d8db0e33e6b94e3421efd2c320f6d85387d5eb11edd",
+        "sha256_in_prefix": "b6b13aafa3760f9694579b30ead52185137728d566f7fc84998b2ccdadc0b738",
+        "size_in_bytes": 6242
+      },
+      {
+        "_path": "share/doc/dbus/diagram.png",
+        "path_type": "hardlink",
+        "sha256": "552d5d0582db3aa6f180eae85f97e822eebc6938b07d84e1a2063ab85ff3f3d7",
+        "sha256_in_prefix": "552d5d0582db3aa6f180eae85f97e822eebc6938b07d84e1a2063ab85ff3f3d7",
+        "size_in_bytes": 78762
+      },
+      {
+        "_path": "share/doc/dbus/diagram.svg",
+        "path_type": "hardlink",
+        "sha256": "7f30f1cc7d95526b8627253fac66e3db2748260dcd6a483a6937e6970510004e",
+        "sha256_in_prefix": "7f30f1cc7d95526b8627253fac66e3db2748260dcd6a483a6937e6970510004e",
+        "size_in_bytes": 33892
+      },
+      {
+        "_path": "share/doc/dbus/examples/GetAllMatchRules.py",
+        "path_type": "hardlink",
+        "sha256": "c74450ed315eda77216755a229481cf32b4d503af50da5efe9b52dfe502a166c",
+        "sha256_in_prefix": "c74450ed315eda77216755a229481cf32b4d503af50da5efe9b52dfe502a166c",
+        "size_in_bytes": 3924
+      },
+      {
+        "_path": "share/doc/dbus/examples/example-session-disable-stats.conf",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "423389941ae4aaeddb38b9487f3fdb0a938939aa53a9d8fad9ac0dc8c3c3c374",
+        "sha256_in_prefix": "2cfebf366431c781918caceb687080b96a11badacd27fd07d2c0b5345f91d229",
+        "size_in_bytes": 638
+      },
+      {
+        "_path": "share/doc/dbus/examples/example-system-enable-stats.conf",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "9b556bc8dd5076f1a11914dfce0f82b0bad1ec7195892ef95131e1e9a8a63aab",
+        "sha256_in_prefix": "479af62519003ba7089aca37c7236b3740575f1cc707fdee64cbe8a2de531a1a",
+        "size_in_bytes": 604
+      },
+      {
+        "_path": "share/doc/dbus/examples/example-system-hardening-without-traditional-activation.conf",
+        "path_type": "hardlink",
+        "sha256": "3c340785681ec1a73d497575c8ad44ee5de6f098c25055863b90d3fbcba7d8d7",
+        "sha256_in_prefix": "3c340785681ec1a73d497575c8ad44ee5de6f098c25055863b90d3fbcba7d8d7",
+        "size_in_bytes": 1048
+      },
+      {
+        "_path": "share/doc/dbus/system-activation.txt",
+        "path_type": "hardlink",
+        "sha256": "adf91f1eed77db6e0ea41a0c21da7bf3641e6640dcd0524885e4a53ea3dc6537",
+        "sha256_in_prefix": "adf91f1eed77db6e0ea41a0c21da7bf3641e6640dcd0524885e4a53ea3dc6537",
+        "size_in_bytes": 3175
+      },
+      {
+        "_path": "share/xml/dbus-1/busconfig.dtd",
+        "path_type": "hardlink",
+        "sha256": "9403dd9564b4568d62ca9004d40e2d0c1141ad2a1274d50e97bac66f98cc739d",
+        "sha256_in_prefix": "9403dd9564b4568d62ca9004d40e2d0c1141ad2a1274d50e97bac66f98cc739d",
+        "size_in_bytes": 1907
+      },
+      {
+        "_path": "share/xml/dbus-1/introspect.dtd",
+        "path_type": "hardlink",
+        "sha256": "be73d84e8f764478f78be388385eaa7a3e4c86d314f9d68934f2c7be8b0d25bf",
+        "sha256_in_prefix": "be73d84e8f764478f78be388385eaa7a3e4c86d314f9d68934f2c7be8b0d25bf",
+        "size_in_bytes": 1226
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "size": 602680,
+  "subdir": "linux-64",
+  "timestamp": 1593111218352,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/dbus-1.13.16-hb2f20db_0.tar.bz2",
+  "version": "1.13.16"
+}
